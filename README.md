@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/Griffeng?template=classic&isocalendar=1&lines=1&achievements=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=Noob-Development%2FSandbox-Mod-Installer&config.timezone=Europe%2FCopenhagen)
+
