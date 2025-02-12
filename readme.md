@@ -15,7 +15,7 @@ Let’s get into contact and build something awesome! 🚀
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on the [Sandbox Mod for Wargame](https://github.com/Noob-Development)  
   
@@ -26,11 +26,7 @@ Let’s get into contact and build something awesome! 🚀
 - 📫 How to reach me griffeng@gr1ffen.dk or GriffenG on discord  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</td></tr> 
 
 <br/>  
 
