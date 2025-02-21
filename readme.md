@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Griffen!  
   
 
-I'm passionate about software development and love solving complex problems through code. Currently, I'm working a lot with **Python**, exploring everything from automation to backend development. I’m always eager to learn new technologies and improve my skills.
+I'm working a lot with **Python**, exploring everything from automation to backend development. I’m always eager to learn new technologies and improve my skills.
 
 Let’s get into contact and build something awesome! 🚀  
   
