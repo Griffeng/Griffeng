@@ -17,7 +17,7 @@ Let’s get into contact and build something awesome! 🚀
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on the [Sandbox Mod for Wargame](https://github.com/Noob-Development)  
+- 🔭 I’m currently working on nothing :> 
   
 
 - 🌱 I’m currently experimenting with Docker and Kubernetes  
